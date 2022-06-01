@@ -1,6 +1,4 @@
-O Git Bash é um terminal extendido para otimizar o uso do Git.
-
-# Comandos Básicos
+Comandos Básicos
 
 - mkdir = criar pastas 
 
