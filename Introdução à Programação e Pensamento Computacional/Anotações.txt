@@ -1,0 +1,9 @@
+Materiais de Apoio:
+
+Slides das aulas (https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view)
+
+Portugol Studio (https://portugol-webstudio.cubos.io/ide)
+
+Jeannette Wing: Computational Thinking (https://www.youtube.com/watch?v=YVEUOHw3Qb8)
+
+Lecture 1: Algorithmic Thinking, Peak Finding (https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUL4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)

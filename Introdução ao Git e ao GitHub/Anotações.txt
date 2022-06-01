@@ -1,0 +1,23 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+# Comandos Básicos
+
+- mkdir = criar pastas 
+
+- dir/ls = listar pastas
+
+- cd .. = retornar entre as pastas 
+
+- cd  = navegar entre as pastas
+
+- clear/ctrl + l = limpar o terminal
+
+- git status
+
+- git clone https://linkdorepositório
+
+- git add .
+
+- git commit -m ""
+
+- git push origin main
